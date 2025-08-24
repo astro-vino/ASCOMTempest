@@ -18,7 +18,7 @@ This repository contains an ASCOM SafetyMonitor driver for the WeatherFlow Tempe
 
 ## Installation
 
-1.  Download the latest `ASCOMTempestSetup.exe` from the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) page.
+1.  Download the latest `ASCOMTempestSetup.exe` from the [Releases](https://github.com/astro-vino/ASCOMTempest/releases) page.
 2.  Run the installer. It will automatically register the driver with the ASCOM Platform.
 
 ## Configuration
